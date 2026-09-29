@@ -1,5 +1,5 @@
 ---
-name: WorldGuessr
+name: WorldGREY
 description: Free-to-play geography guessing game with dark green glass chrome over full-bleed world imagery.
 colors:
   primary: "#245734"
@@ -76,13 +76,13 @@ components:
     rounded: "{rounded.hud}"
 ---
 
-# Design System: WorldGuessr
+# Design System: WorldGREY
 
 ## Overview
 
 **Creative North Star: "The Traveler's Passport"**
 
-WorldGuessr looks like a well-worn passport turned into a game. The real world is always the main image: a live Street View pano or a full-bleed city photo fills the screen. The interface floats over it as small pieces of dark green glass. Stamps, streaks, pins, and collected cosmetics are the player's identity, the way stamps fill a passport. The mood is fun first: friendly, game-like, and never so heavy that it hides the world behind it.
+WorldGREY looks like a well-worn passport turned into a game. The real world is always the main image: a live Street View pano or a full-bleed city photo fills the screen. The interface floats over it as small pieces of dark green glass. Stamps, streaks, pins, and collected cosmetics are the player's identity, the way stamps fill a passport. The mood is fun first: friendly, game-like, and never so heavy that it hides the world behind it.
 
 The system is a single fixed dark theme. There is no light mode. Hierarchy comes from tone steps, not from outlines. Color is rationed: the green chrome is constant, and every other color has one job (gold = currency and wins, red = ranked and danger, pink = team play). Purchased cosmetics may retint the menus, but gameplay chrome never changes color.
 
